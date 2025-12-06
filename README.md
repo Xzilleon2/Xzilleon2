@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 🎓 BS Computer Science Student at University of Mindanao  
-💡 Freelancer: Focused on **Full-Stack Web Development** and technical/creative writing. I bring ideas to life by building responsive, scalable web applications—handling both frontend UI/UX and backend logic.  
+💡 Freelancer: Focused on **Back-end Web Development** and technical/creative writing. I bring ideas to life by building responsive, scalable web applications—handling backend logic.  
 🤖 Passionate about Web Development  
 💬 I love collaborating with others, contributing to open-source projects, and learning through hands-on experience.
 
@@ -33,8 +33,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### 💡 Special Interests
-- 🧬 Health Tech Innovation  
+- ⚙️ Automated Task & Workflow Innovation 
 - 🧠 AI & Machine Learning Projects  
 - 🌍 Open Source Contributions  
-- 🎮 Game Development & Creative Design  
+- 🎮 Game Development & Pixel Art  
 - 🚀 Startup Building & Community Empowerment
